@@ -2,7 +2,7 @@
 - 👀 I’m interested in Roblox GFX and gaming.
 - 🌱 I’m currently learning how to make advanced GFX.
 - 💞️ I’m looking to collaborate on nothing as of now.
-- 📫 How to reach me: epic#0006 on Discord.
+- 📫 How to reach me: epic#0004 on Discord.
 
 <!---
 Epic309/Epic309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
